@@ -46,8 +46,6 @@ A backend sentiment analysis system built on Java and Spring Boot, integrating *
   <img src="https://skillicons.dev/icons?i=java,cs,spring,mongodb,mysql,redis,kafka,docker,git,github,postman,html" alt="Languages and tools" />
 </p>
 
-*(If any single icon above fails to render, it's usually a temporary skillicons.dev CDN issue, not a broken link — the service occasionally lags on less common icons like Kafka.)*
-
 ---
 
 ## 📊 GitHub Analytics
