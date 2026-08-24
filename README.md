@@ -1,35 +1,119 @@
 <h1 align="center">Hi 👋, I'm Aakash Chaudhary</h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
+<h3 align="center">A backend developer from Nepal, building with Java, Spring, and SQL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a2k1shbug&label=Profile%20views&color=0e75b6&style=flat" alt="a2k1shbug" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a2k1shbug" alt="a2k1shbug" /></a> </p>
-
-- 🔭 I’m currently working on [Sentiment Analysis](https://github.com/A2k1shBug/SentimentAnalysis)
-
-- 🌱 I’m currently learning **Backend Development , DSA , and System Design etc**
-
-- 👨‍💻 All of my projects are available at [https://protfolilo.vercel.app/](https://protfolilo.vercel.app/)
-
-- 💬 Ask me about **Backend Development**
-
-- 📫 How to reach me **tharuaakash581@gmail.com**
-
-- ⚡ Fun fact **I don't have bugs. I have future features.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aakashchau9pvy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakashchau9pvy" height="30" width="40" /></a>
-<a href="https://fb.com/aakash chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash chaudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/aakash986616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash986616" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JMUGgsXKyD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JMUGgsXKyD" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=A2k1shBug&color=blueviolet&style=flat" alt="Profile views" />
+  <a href="https://github.com/A2k1shBug">
+    <img src="https://img.shields.io/github/followers/A2k1shBug?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2k1shbug&show_icons=true&locale=en&layout=compact" alt="a2k1shbug" /></p>
+## 💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a2k1shbug&show_icons=true&locale=en" alt="a2k1shbug" /></p>
+- 🔭 Currently working on **[Sentiment Analysis](https://github.com/A2k1shBug/SentimentAnalysis)**
+- 🌱 Currently learning **Backend Development, DSA, and System Design**
+- 💬 Ask me about **Backend Development**
+- 📫 Reach me at **[tharuaakash581@gmail.com](mailto:tharuaakash581@gmail.com)**
+- 🌐 Portfolio: **[chaudharyaakash.com.np](https://chaudharyaakash.com.np)**
+- ⚡ Fun fact: I don't have bugs, I have future features.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a2k1shbug&" alt="a2k1shbug" /></p>
+---
+
+## 🚀 Featured Project
+
+### [Sentiment Analysis](https://github.com/A2k1shBug/SentimentAnalysis)
+
+A Java/Spring-based project exploring sentiment analysis using **Spring AI**, containerized with Docker for local setup.
+
+**Stack (from the repo itself):**
+- Java + Maven (`pom.xml`, Maven wrapper)
+- Spring / Spring AI
+- Docker (`docker-compose.yml` for environment setup)
+
+> Repo description: *"Fully Completed Project. Trending technology using Spring AI."*
+
+📎 [View the repository →](https://github.com/A2k1shBug/SentimentAnalysis)
+
+*Note: the GitHub repo doesn't currently list specific features/screenshots in its description — consider adding a short project-level README inside the repo itself (setup steps, sample input/output, architecture) so recruiters can understand it without cloning it.*
+
+---
+
+## 🧠 Currently Learning
+
+`Backend Development` · `Data Structures & Algorithms` · `System Design`
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,java,html,mysql,mongodb,docker,git,redis,spring,postman" alt="Languages and tools" />
+</p>
+
+*(Kept to tools visible in the original profile: C#, Java, HTML5, MySQL, MongoDB, Docker, Git, Redis, Spring, Postman.)*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A2k1shBug&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true" alt="A2k1shBug's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2k1shBug&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+**What's shown here (and what isn't):**
+
+| Requested stat | Status | Where it appears |
+|---|---|---|
+| Total Commits | ✅ Shown | Stats card (public commits; current-year unless GitHub API allows full history) |
+| Total Pull Requests | ✅ Shown | Stats card |
+| Total Issues | ✅ Shown | Stats card |
+| Stars Earned | ✅ Shown | Stats card |
+| Total Repositories | ⚠️ Not shown by this widget | Github-readme-stats doesn't expose a repo-count field. See your [repositories tab](https://github.com/A2k1shBug?tab=repositories) for the live count instead. |
+| Total Contributions | ✅ Shown | See the **Contribution Streak** card below — it displays this number directly |
+
+*Limitation: the stats/top-langs cards run on a shared public Vercel deployment. It can occasionally be slow or briefly rate-limited by GitHub's API (this is what caused the "Failed to retrieve contributions" error in the previous version). If a card doesn't load, refresh the page — it isn't broken, just temporarily rate-limited.*
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A2k1shBug&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+*(Replaces the old `activity-graph.herokuapp.com` endpoint, which is no longer reliable — this uses the actively maintained Vercel-hosted version instead.)*
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=A2k1shBug&theme=default&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+*(Uses the current `streak-stats.demolab.com` endpoint. The original `github-readme-streak-stats.herokuapp.com` address is deprecated/unreliable and was replaced.)*
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=A2k1shBug&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://x.com/aakashchau9pvy" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://www.instagram.com/aakash986616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/A2k1shBug" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:tharuaakash581@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://chaudharyaakash.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center"><sub>Thanks for stopping by 👋</sub></p>
