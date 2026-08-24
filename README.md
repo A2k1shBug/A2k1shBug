@@ -2,9 +2,7 @@
 
 IT student from Nepal, fascinated by what happens behind the scenes of software. I follow questions down the rabbit hole, experiment with ideas, and build projects to find the answers.
 
-##Fun Fact:
- I don't have bugs. I have future features.
-
+Fun Fact: I don't have bugs. I have future features.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A2k1shBug&color=blueviolet&style=flat" alt="Profile views" />
