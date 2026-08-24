@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aakash Chaudhary</h1>
-<h3 align="center">A backend developer from Nepal, building with Java, Spring, and SQL</h3>
+# 👋 Hi, I'm Aakash Chaudhary
+
+### 🎓 IT Student | 💻 Backend Developer
+
+I am an IT student from Nepal interested in backend development, software architecture, system design, and building practical software projects.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A2k1shBug&color=blueviolet&style=flat" alt="Profile views" />
-  <a href="https://github.com/A2k1shBug">
-    <img src="https://img.shields.io/github/followers/A2k1shBug?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-  </a>
+  <a href="https://github.com/A2k1shBug"><img src="https://img.shields.io/github/followers/A2k1shBug?label=Followers&style=flat&color=blue" alt="GitHub followers" /></a>
 </p>
 
 ---
@@ -13,46 +14,39 @@
 ## 💻 About Me
 
 - 🔭 Currently working on **[Sentiment Analysis](https://github.com/A2k1shBug/SentimentAnalysis)**
-- 🌱 Currently learning **Backend Development, DSA, and System Design**
 - 💬 Ask me about **Backend Development**
 - 📫 Reach me at **[tharuaakash581@gmail.com](mailto:tharuaakash581@gmail.com)**
 - 🌐 Portfolio: **[chaudharyaakash.com.np](https://chaudharyaakash.com.np)**
-- ⚡ Fun fact: I don't have bugs, I have future features.
+- 💀 Fun fact: I don't have bugs. I have future features.
+
+---
+
+## 🧠 What I'm Currently Learning
+
+`Data Structures & Algorithms (DSA)` · `System Design`
 
 ---
 
 ## 🚀 Featured Project
 
-### [Sentiment Analysis](https://github.com/A2k1shBug/SentimentAnalysis)
+### [Sentiment Analysis System](https://github.com/A2k1shBug/SentimentAnalysis)
 
-A Java/Spring-based project exploring sentiment analysis using **Spring AI**, containerized with Docker for local setup.
+A backend sentiment analysis system built on Java and Spring Boot, integrating **Spring AI** with a locally-run **Ollama / Mistral 7B** model for inference, and using **MongoDB**, **Redis**, and **Kafka** as part of its data and messaging layer. The project is containerized with **Docker** for local setup and deployment.
 
-**Stack (from the repo itself):**
-- Java + Maven (`pom.xml`, Maven wrapper)
-- Spring / Spring AI
-- Docker (`docker-compose.yml` for environment setup)
+**Tech stack:**
+`Java` · `Spring Boot` · `Spring AI` · `MongoDB` · `Redis` · `Kafka` · `Docker` · `Ollama` · `Mistral 7B`
 
-> Repo description: *"Fully Completed Project. Trending technology using Spring AI."*
-
-📎 [View the repository →](https://github.com/A2k1shBug/SentimentAnalysis)
-
-*Note: the GitHub repo doesn't currently list specific features/screenshots in its description — consider adding a short project-level README inside the repo itself (setup steps, sample input/output, architecture) so recruiters can understand it without cloning it.*
-
----
-
-## 🧠 Currently Learning
-
-`Backend Development` · `Data Structures & Algorithms` · `System Design`
+[View Project →](https://github.com/A2k1shBug/SentimentAnalysis)
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,html,mysql,mongodb,docker,git,redis,spring,postman" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=java,cs,spring,mongodb,mysql,redis,kafka,docker,git,github,postman,html" alt="Languages and tools" />
 </p>
 
-*(Kept to tools visible in the original profile: C#, Java, HTML5, MySQL, MongoDB, Docker, Git, Redis, Spring, Postman.)*
+*(If any single icon above fails to render, it's usually a temporary skillicons.dev CDN issue, not a broken link — the service occasionally lags on less common icons like Kafka.)*
 
 ---
 
@@ -63,28 +57,23 @@ A Java/Spring-based project exploring sentiment analysis using **Spring AI**, co
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2k1shBug&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-**What's shown here (and what isn't):**
-
-| Requested stat | Status | Where it appears |
-|---|---|---|
-| Total Commits | ✅ Shown | Stats card (public commits; current-year unless GitHub API allows full history) |
-| Total Pull Requests | ✅ Shown | Stats card |
-| Total Issues | ✅ Shown | Stats card |
-| Stars Earned | ✅ Shown | Stats card |
-| Total Repositories | ⚠️ Not shown by this widget | Github-readme-stats doesn't expose a repo-count field. See your [repositories tab](https://github.com/A2k1shBug?tab=repositories) for the live count instead. |
-| Total Contributions | ✅ Shown | See the **Contribution Streak** card below — it displays this number directly |
-
-*Limitation: the stats/top-langs cards run on a shared public Vercel deployment. It can occasionally be slow or briefly rate-limited by GitHub's API (this is what caused the "Failed to retrieve contributions" error in the previous version). If a card doesn't load, refresh the page — it isn't broken, just temporarily rate-limited.*
+| Requested stat | Status |
+|---|---|
+| Total Commits | ✅ Shown in stats card above |
+| Pull Requests | ✅ Shown in stats card above |
+| Issues | ✅ Shown in stats card above |
+| Stars Earned | ✅ Shown in stats card above |
+| Total Contributions | ✅ Shown in the Contribution Streak card below |
+| Total Repositories | ⚠️ Not exposed by this widget — see the live count on the [repositories tab](https://github.com/A2k1shBug?tab=repositories) |
+| Top Languages | ✅ Shown in the second card above |
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A2k1shBug&theme=react-dark&hide_border=true" alt="Contribution activity graph" />
 </p>
-
-*(Replaces the old `activity-graph.herokuapp.com` endpoint, which is no longer reliable — this uses the actively maintained Vercel-hosted version instead.)*
 
 ---
 
@@ -94,14 +83,12 @@ A Java/Spring-based project exploring sentiment analysis using **Spring AI**, co
   <img src="https://streak-stats.demolab.com?user=A2k1shBug&theme=default&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-*(Uses the current `streak-stats.demolab.com` endpoint. The original `github-readme-streak-stats.herokuapp.com` address is deprecated/unreliable and was replaced.)*
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A2k1shBug&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=A2k1shBug&theme=flat&no-frame=true&margin-w=10" alt="GitHub trophies" />
 </p>
 
 ---
