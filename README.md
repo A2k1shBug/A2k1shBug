@@ -101,4 +101,3 @@ A backend sentiment analysis system built on Java and Spring Boot, integrating *
   <a href="https://chaudharyaakash.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center"><sub>Thanks for stopping by 👋</sub></p>
