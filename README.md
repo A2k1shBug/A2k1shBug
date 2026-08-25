@@ -31,10 +31,10 @@ Fun Fact: I don't have bugs. I have future features.
 
 ### [Sentiment Analysis System](https://github.com/A2k1shBug/SentimentAnalysis)
 
-A backend sentiment analysis system built on Java and Spring Boot, integrating **Spring AI** with a locally-run **Ollama / Mistral 7B** model for inference, and using **MongoDB**, **Redis**, and **Kafka** as part of its data and messaging layer. The project is containerized with **Docker** for local setup and deployment.
+A backend sentiment analysis system built on Java and Spring Boot, integrating **Spring AI** with a locally-run **Ollama ** model for inference, and using **MongoDB**, **Redis**, and **Kafka** as part of its data and messaging layer. The project is containerized with **Docker** for local setup and deployment.
 
 **Tech stack:**
-`Java` · `Spring Boot` · `Spring AI` · `MongoDB` · `Redis` · `Kafka` · `Docker` · `Ollama` · `Mistral 7B`
+`Java` · `Spring Boot` · `Spring AI` · `MongoDB` · `Redis` · `Kafka` · `Docker` · `Ollama` · 
 
 [View Project →](https://github.com/A2k1shBug/SentimentAnalysis)
 
