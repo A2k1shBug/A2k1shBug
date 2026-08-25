@@ -16,7 +16,7 @@ Fun Fact: I don't have bugs. I have future features.
 - 🔭 Currently working on **[Sentiment Analysis](https://github.com/A2k1shBug/SentimentAnalysis)**
 - 💬 Ask me about **Backend Development**
 - 📫 Reach me at **[tharuaakash581@gmail.com](mailto:tharuaakash581@gmail.com)**
-- 🌐 Portfolio: **[chaudharyaakash.com.np](https://chaudharyaakash.com.np)**
+- 🌐 Portfolio: **[protfolilo.vercel.app](https://protfolilo.vercel.app/)**
 - 💀 Fun fact: I don't have bugs. I have future features.
 
 ---
@@ -98,6 +98,6 @@ A backend sentiment analysis system built on Java and Spring Boot, integrating *
   <a href="https://www.instagram.com/aakash986616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/A2k1shBug" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:tharuaakash581@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://chaudharyaakash.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://protfolilo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
